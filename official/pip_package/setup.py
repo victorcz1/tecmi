@@ -82,7 +82,7 @@ setup(
     long_description=long_description,
     author='Google Inc.',
     author_email='packages@tensorflow.org',
-    url='https://github.com/tensorflow/models',
+    url='https://github.com/victorcz1/tecmi',
     license='Apache 2.0',
     packages=find_packages(exclude=[
         'research*',
