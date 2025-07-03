@@ -30,4 +30,4 @@ pip3 install natsort absl-py opencv-python pandas pandas-gbq \
 
 # Cloning project directory from TF Model Garden for postprocessing
 # and preprocessing functions.
-git clone --depth 1 https://github.com/tensorflow/models.git
+git clone --depth 1 https://github.com/victorcz1/tecmi.git
